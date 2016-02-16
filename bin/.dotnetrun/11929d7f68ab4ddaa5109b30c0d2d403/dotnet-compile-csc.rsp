@@ -1,0 +1,12 @@
+﻿-d:DEBUG
+-d:TRACE
+-d:DNXCORE50
+-nostdlib
+-nologo
+-debug:portable
+-nowarn:CS1701
+-nowarn:CS1702
+-nowarn:CS1705
+"/Users/yuta/Downloads/testNetCore/bin/.dotnetrun/11929d7f68ab4ddaa5109b30c0d2d403/dotnet-compile.assemblyinfo.cs"
+-out:"/Users/yuta/Downloads/testNetCore/bin/.dotnetrun/11929d7f68ab4ddaa5109b30c0d2d403/testNetCore.dll"
+"/Users/yuta/Downloads/testNetCore/Program.cs"
